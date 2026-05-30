@@ -31,6 +31,7 @@ cShop progress (Some things may take time, I'm a solo dev!)
 - [ ] Theme shop implementation?
 - [ ] Web (off device) implementation
 - [ ] Custom UI (Wii U)?
+- [ ] Homebrew implementation for Wii U?
 
 
 ### Dictionary
