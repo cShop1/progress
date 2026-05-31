@@ -9,7 +9,7 @@ cShop progress (Some things may take time, I'm a solo dev!)
 - [ ] Have voting system
 - [ ] Proper Search (close!)
 - [x] Get games loaded properly
-- [x] Connected titles and stuff to there own banner
+- [x] Connected titles and stuff to their own banner
 - [ ] Get DLC (and passes) working properly
 - [ ] Spotpass
 
