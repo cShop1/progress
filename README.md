@@ -20,14 +20,13 @@ cShop progress (Some things may take time, I'm a solo dev!)
 - [ ] Get IAS and CAS working
 - [ ] Get unofficial titles working
 
-## DB (DataBase)
-
-- [ ] Voting table for new content
+## DB (DataBase is done!) 
 - [x] Proper storing of games
 - [x] Proper cataloging
 - [x] Add prices to every single game
       
 ## Unconfirmed
+- [ ] Voting table for new content
 - [ ] Theme shop implementation?
 - [ ] Web (off device) implementation
 - [ ] Custom UI (Wii U)?
