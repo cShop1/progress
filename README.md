@@ -2,6 +2,8 @@
 
 cShop progress (Some things may take time, I'm a solo dev!)
 
+## progress 
+73% done! 
 ## Front end
 
 - [x] Get frontend loaded
