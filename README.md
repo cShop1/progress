@@ -3,7 +3,7 @@
 cShop progress (Some things may take time, I'm a solo dev!)
 
 ## progress 
-73% done! 
+ 62% done!
 ## Front end
 
 - [x] Get frontend loaded
@@ -14,7 +14,8 @@ cShop progress (Some things may take time, I'm a solo dev!)
 - [x] Connected titles and stuff to their own banner
 - [ ] Get DLC (and passes) working properly
 - [ ] Spotpass
-
+- [ ] Theme shop implementation
+- [ ] Movie support
 ## SOAP/Download
 
 - [x] Make ECS work properly
@@ -26,10 +27,17 @@ cShop progress (Some things may take time, I'm a solo dev!)
 - [x] Proper storing of games
 - [x] Proper cataloging
 - [x] Add prices to every single game
-      
+
+## Theme Shop
+- [x] Front page loaded
+- [ ] Downloading themes (needs cas and ecs)
+
+## Security
+- [x] AES encryption for user credentials
+- [ ] Rate Limiter? (to defend against DDOS attacks)
+
 ## Unconfirmed
 - [ ] Voting table for new content
-- [ ] Theme shop implementation?
 - [ ] Web (off device) implementation
 - [ ] Custom UI (Wii U)?
 - [ ] Homebrew implementation for Wii U?
